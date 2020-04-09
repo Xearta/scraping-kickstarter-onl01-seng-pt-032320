@@ -25,8 +25,4 @@ def create_project_hash
     }
   end
   projects
-
 end
-
-
-puts create_project_hash
